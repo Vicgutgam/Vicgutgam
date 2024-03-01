@@ -18,7 +18,7 @@
 ⛰️ If you're wondering where I am, I'm probably taking a walk in the nearby mountains or participating in some cultural activity.
 </p>
 
-<h2>🧰 Languages and tools:</h2>  
+<h2>🧰 What do I know how to work with?:</h2>  
 
 - 🐍 Python
 
