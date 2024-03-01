@@ -9,6 +9,7 @@
 </div>
 
 
+
 <h2>👩‍💻Who am I?:</h2>    
 
 <p> 👨‍🏫 I am a junior data analyst with more than ten years of experience in the field of teaching and culture.</p>
@@ -17,6 +18,8 @@
 
 ⛰️ If you're wondering where I am, I'm probably taking a walk in the nearby mountains or participating in some cultural activity.
 </p>
+
+
 
 <h2>🧰 What do I know how to work with?:</h2>  
 
@@ -27,6 +30,7 @@
 - 🖼️ Tableau
   
 - 💻 SQL
+
 
 <h2>💼 Projects I feel proud about:</h2>  
 
