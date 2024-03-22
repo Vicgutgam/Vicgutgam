@@ -36,10 +36,11 @@
 
 | Project  | Industry | What is it about |
 | ------------- | ------------- | ------------- |
+| [Akkurat. Carbon_footprint](https://github.com/Vicgutgam/Final-project.-Carbon_footprint)  | 💹 Social Media        | Akkurat is a social network prototype with roots in the fight against climate change. |
 | [Trade Balance and Ecology](https://github.com/Vicgutgam/First-Project.-Balanza_Comercial_y_Ecologia)  | 💹 Economy        |  A review of the Spanish trade balance and how to improve it from an ecological perspective. |
 | [Energy in Spain](https://github.com/Vicgutgam/-El-sistema-el-ctrico-en-Espa-a-) | ⚡️ Energy      |   How does Spain's electrical system work? How are renewable energies? What does the future hold?. |
 | [Predict selling prices of houses](https://github.com/Vicgutgam/King-Real-Estate) | 🏠 Real State     |A supposed company wants to know the real price of each home with specific characteristics. |
-| --- | ---   |--- |
+
 
 
 <!--
